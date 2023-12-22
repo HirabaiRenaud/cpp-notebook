@@ -1,6 +1,6 @@
-# README.md
-As the name implies, this repository will be a personal progress-check for the C++ language.
+sketch-log
+A personal progress-check for the C++ language.
 
 # Resources Used
-> C++ Primer Sixth Edition, by Stephen Prata (main book)
-> The Raylib Open Source Library
+- C++ Primer Sixth Edition, by Stephen Prata (main textbook)
+- The Raylib Open Source Library
