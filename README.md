@@ -1,4 +1,3 @@
-#sketch-log
 A personal progress-check for the C++ language.
 
 # Resources Used
